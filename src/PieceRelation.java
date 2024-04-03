@@ -1,0 +1,6 @@
+public enum PieceRelation {
+    DOESNT_FOLLOW,
+    FOLLOWS_FROM_RIGHT,
+    FOLLOWS_FROM_LEFT,
+    FOLLOWS_FROM_BOTH
+}
